@@ -1,6 +1,7 @@
 
     body {
         font-family: sans-serif;
+        background-color: black;
     }
     #menu {
         background-color: #333333;
@@ -19,4 +20,3 @@
     i {
         font-size: 21px;
     }
-    
